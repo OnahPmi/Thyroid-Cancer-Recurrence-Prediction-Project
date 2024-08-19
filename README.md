@@ -8,16 +8,16 @@
 
 ### In order to successfully run the notebooks 
 
-**Create a new virtual (conda) environment and install the following:**
-`python==3.8.18 or above`
-`numpy==1.24.4`
-`scipy==1.10.1`
-`scikit-learn==1.3.2`
-`pandas==2.0.4`
-`seaborn==0.12.2`
-`matplotlib==3.7.2`
-`umap-learn==0.5.6`
-`prince==0.13.0`
+**Create a new virtual (conda) environment and install the following:**  
+`python==3.8.18 or above`  
+`numpy==1.24.4`  
+`scipy==1.10.1`  
+`scikit-learn==1.3.2`  
+`pandas==2.0.4`  
+`seaborn==0.12.2`  
+`matplotlib==3.7.2`  
+`umap-learn==0.5.6`  
+`prince==0.13.0`  
 
 - For each one, try using conda:
 
