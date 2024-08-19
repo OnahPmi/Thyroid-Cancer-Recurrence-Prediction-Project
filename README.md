@@ -1,4 +1,4 @@
-# Thyroid Cancer Re-occurrence Prediction Project
+# Well-Differentiated Thyroid Cancer Recurrence Prediction Project
 
 **This Repository contains the code base of our study titled: `Optimizing Unsupervised Feature Engineering and Predictive Models for Thyroid Cancer Recurrence Prediction.`**
 
@@ -21,18 +21,18 @@
 
 - For each one, try using conda:
 
-bash```
+```bash
 conda install <package_name>
 ```
 
 - If it's not available on conda, try conda-forge:
 
-bash```
+```bash
 conda install -c conda-forge <package_name>
 ```
 
 - If this still fails, then ultimately use pip:
 
-bash```
+```bash
 pip install <package_name>
 ```
