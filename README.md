@@ -8,7 +8,7 @@
 
 ### In order to successfully run the notebooks 
 
-**Create a new virtual (conda) environment and install the following:**
+**Create a new virtual (conda) environment and install the following:**  
 `python==3.8.18 or above`  
 `numpy==1.24.4`  
 `scipy==1.10.1`  
