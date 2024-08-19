@@ -161,7 +161,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-results
+Manuscript files
 ~$ferences.docx
 ~$nuscript draft.docx
 ~$portant Points for manuscript.docx
