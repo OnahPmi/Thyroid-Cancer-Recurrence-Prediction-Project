@@ -1,0 +1,5 @@
+,Balanced Accuracy,F1 Score,ROC AUC,Sensitivity,Specificity,Precision
+Papillary,0.938,0.932,0.993,0.962,0.915,0.936
+Follicular,1.0,1.0,1.0,1.0,1.0,1.0
+Micropapillary,N/A (1 class only),N/A (1 class only),N/A (1 class only),N/A (1 class only),N/A (1 class only),N/A (1 class only)
+Hurthel cell,0.667,0.5,1.0,1.0,0.333,0.833

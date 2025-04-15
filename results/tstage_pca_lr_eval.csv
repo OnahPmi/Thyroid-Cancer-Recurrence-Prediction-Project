@@ -1,0 +1,7 @@
+,Balanced Accuracy,F1 Score,ROC AUC,Sensitivity,Specificity,Precision
+T2,0.802,0.92,0.969,0.667,0.938,0.928
+T3a,0.909,0.924,0.989,1.0,0.818,0.934
+T4a,N/A (1 class only),N/A (1 class only),N/A (1 class only),N/A (1 class only),N/A (1 class only),N/A (1 class only)
+T1a,1.0,1.0,1.0,1.0,1.0,1.0
+T1b,0.958,0.934,1.0,1.0,0.917,0.962
+T3b,0.5,0.817,0.857,1.0,0.0,0.766

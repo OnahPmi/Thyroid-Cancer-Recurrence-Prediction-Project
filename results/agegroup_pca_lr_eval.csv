@@ -1,0 +1,4 @@
+,Balanced Accuracy,F1 Score,ROC AUC,Sensitivity,Specificity,Precision
+45–60,0.955,0.942,0.985,1.0,0.909,0.95
+<45,0.931,0.927,0.991,0.941,0.92,0.933
+>60,0.875,0.913,1.0,1.0,0.75,0.926
