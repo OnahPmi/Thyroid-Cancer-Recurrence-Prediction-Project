@@ -1,4 +1,4 @@
-# Differentiated Thyroid Cancer (DTC) Recurrence Prediction Project
+# [Differentiated Thyroid Cancer (DTC) Recurrence Prediction Project](https://pmc.ncbi.nlm.nih.gov/articles/PMC12070754/)
 
 **This Repository contains the code base of our study titled: `Optimizing Unsupervised Feature Engineering and Classification Pipelines for Differentiated Thyroid Cancer (DTC) Recurrence Prediction`**, which has been pulished in _BMC Medical Informatics and Decision Making_ (Link ⟶ [Click to view](https://pmc.ncbi.nlm.nih.gov/articles/PMC12070754/)).
 
