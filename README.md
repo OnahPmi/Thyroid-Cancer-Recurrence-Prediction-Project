@@ -22,7 +22,7 @@
 8. **`5. Classification Pipelines' Evaluation Explanability with SHAP`**, where we performed the explainability of the best-performing classification pipeline using SHAP analysis.
 9. **`6. Workflow Diagram`**, were we created the flow diagram for the study methodology.
 
-### In order to successfully run the notebooks 
+# In order to successfully run the notebooks 
 
 **Create a new virtual (conda) environment and install the following:**  
 `python==3.8.18 or above`  
