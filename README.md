@@ -11,7 +11,7 @@
 
 **Conclusions:** Dimensionality reduction via PCA and t-SVD significantly improved model performance, particularly for LR, SVM, FNN, RF and KNN classifiers. The PCA-based LR pipeline showed the best generalizability, supporting its potential integration into clinical decision-support tools for personalized DTC management.
 
-## The code base is divided into 9 scripts for easy accessibility.
+# The code base is divided into 9 scripts for easy accessibility.
 1. **`1. EDA dimensionality reduction Exploration`**, where we explored the various dimensionality reduction techniques to find the optimal ones for the modelling pipeline. 
 2. **`2. Hyperparameter Tuning and Initial Classification Pipelines Evaluation`**, where we performed hyperparameter optimization of the classification pipelines using the best-performing dimentionality reduction techniques and performed initial evaluations.
 3. **`3a. Classification Pipelines' Evaluation Evaluation (AUC, ROC Curve, DET Curve & 95% CI)`**, where we evaluated the classification pipelines using AUC, ROC $ DET Curves and computing the 95% Confidence Intervals (CIs).
